@@ -4,7 +4,7 @@
 
 ##### ***Link to this page can be found in my learning diary***
 
-Let´s see some example of code blocks that can be used in github pages:
+Let´s see some example of code blocks that can be used in github pages[^1]:
 
 >Examples from OAMK java course
 
@@ -30,7 +30,7 @@ for (int i = 0; i < 9; i++) {
 
  #### The requirements stated that I need to use a handful of markdown features. In case that those features above are not enough, let´s explore a few more:
  
- Here is a simple footnote[^1].
+ 
 
 I have created an another text file inside this repository. You can check it out [here](/newText.md)
 
@@ -44,4 +44,4 @@ It is also possble to use emojis, se let´s see a few:
 
 :peanuts:  :cut_of_meat: :whale: :scorpion: :turkey: :unicorn: :family_man_girl_girl: :man_playing_water_polo: (As a side note, i did not know that there is an emoji of man playing water polo)
 
-[^1]: Something something
+[^1]: For more information about java code, see this [java tutorial](https://docs.oracle.com/javase/tutorial/) link.
