@@ -10,6 +10,7 @@ Let´s see some example of code blocks that can be used in github pages:
 
 
 First Example:
+
 ´´´
 @Override
     public void lend(String lender) {
@@ -18,6 +19,7 @@ First Example:
     }
 ´´´
 Second example;
+
 ´´´
 for (int i = 0; i < 9; i++) {
             soft1.takeHit();
