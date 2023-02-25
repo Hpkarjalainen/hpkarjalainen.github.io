@@ -11,19 +11,21 @@ Let´s see some example of code blocks that can be used in github pages:
 
 First Example:
 
-´´´
+```
 @Override
     public void lend(String lender) {
         super.lend(lender);
         super.loanTime = 7;
     }
-´´´
+```
+
 Second example;
 
-´´´
+```
 for (int i = 0; i < 9; i++) {
             soft1.takeHit();
             tough1.takeHit();
         }
-´´´
+```
+
 
