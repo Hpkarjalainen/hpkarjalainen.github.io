@@ -28,4 +28,7 @@ for (int i = 0; i < 9; i++) {
         }
 ```
 
+The requirements stated that I need to use a handful of markdown features. In case that those features above are not enough, let´s explore a few more:
+
+
 
