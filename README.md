@@ -44,4 +44,4 @@ It is also possble to use emojis, se let´s see a few:
 
 :peanuts:  :cut_of_meat: :whale: :scorpion: :turkey: :unicorn: :family_man_girl_girl: :man_playing_water_polo: (As a side note, i did not know that there is an emoji of man playing water polo)
 
-[^1] Something something
+[^1]: Something something
