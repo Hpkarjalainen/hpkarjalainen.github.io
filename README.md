@@ -5,7 +5,10 @@
 ##### ***Link to this page can be found in my learning diary***
 
 Let´s see some example of code blocks that can be used in github pages:
+
 >Examples from OAMK java course
+
+
 First Example:
 ´´´
 @Override
