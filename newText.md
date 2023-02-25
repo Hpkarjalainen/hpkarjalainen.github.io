@@ -5,4 +5,4 @@ To move back to the main page, click [here](/readme.md)
 
 Also, here is a picture of a nice cat: 
 
-![This is an image](https://play.google.com/store/apps/details?id=com.sinbadstudios.cartooncat&hl=en_US&gl=US)
+![This is an image](https://cdnb.artstation.com/p/assets/images/images/029/823/661/large/rocio-alejandra-cartoon-cat-creepypasta.jpg?1598756940)
