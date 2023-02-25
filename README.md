@@ -40,7 +40,7 @@ One example of a list (of the courses we are ongoing right now):
 * Cloud Services
 * Web development
 
-It is also possble to use emojis, se let´s see a few (these only seem to work when viewing the page inside github, not when pasting the URL to the browser):
+It is also possible to use emojis, se let´s see a few (these only seem to work when viewing the page inside github, not when pasting the URL to the browser):
 
 :peanuts: :cut_of_meat: :whale: :scorpion: :turkey: :unicorn: :family_man_girl_girl: :man_playing_water_polo: (As a side note, i did not know that there is an emoji of man playing water polo)
 
