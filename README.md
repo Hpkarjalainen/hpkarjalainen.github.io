@@ -32,3 +32,9 @@ The requirements stated that I need to use a handful of markdown features. In ca
 
 I have created an another text file inside this repository. You can check it out [here](/newText.md)
 
+One example of a list (of the courses we are ongoing right now):
+
+- Jave Programming
+* Cloud Services
+* Web development
+
