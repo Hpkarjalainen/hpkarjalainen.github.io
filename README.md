@@ -38,3 +38,6 @@ One example of a list (of the courses we are ongoing right now):
 * Cloud Services
 * Web development
 
+It is also possble to use emojis, se let´s see a few:
+
+:peanuts:  :cut_of_meat:
